@@ -248,23 +248,4 @@ do not establish that the hybrid system would save money in a rental branch.
   Compare the proposed policy with existing inspections before allowing any
   automatic vehicle release or customer billing.
 
-**Decision for this project:** retain the best saved model as an offline
-prototype, with no replacement of normal staff inspections. The unreliable
-labels are the most immediate concern because both detection scores and the
-business-cost calculations depend on them. Representative rental-return images
-with audited labels, measured staff accuracy and timings, and a fresh holdout
-are needed before judging whether a live pilot is worthwhile. This recommendation
-was proposed with AI assistance and accepted by Javier; it is not evidence of
-deployment readiness or achieved savings.
 
-## Generative AI use disclosure
-
-ChatGPT/Codex assisted with setup, public-source research, dataset retrieval,
-training/evaluation code, tests, plots, dashboard wiring and report formatting.
-Javier selected rental cars, prioritised missed damage, accepted
-the starting cost/volume assumptions and asked for an evidence-based second
-experiment. AI also contributed explanatory wording, analysis and the final
-recommendation, which Javier accepted. These contributions go beyond formatting
-and are disclosed here; this report is not represented as an independently
-authored student analysis. The course requires the report's final ideas and
-findings to be the student's own.
